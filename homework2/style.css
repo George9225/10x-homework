@@ -1,0 +1,19 @@
+img {
+    width: 250px;
+}
+
+figure{
+    border: 2px solid black;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+h2{
+   color: red;
+}
+span {
+    font-size: 20px;
+}
